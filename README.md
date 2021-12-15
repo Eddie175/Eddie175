@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Eddie175
 - 👀 I’m interested in code, Rubik's Cubes, and Spider-Man
 - 🌱 I’m currently learning Javascript, Typescript, git, and how to build APIs
-- 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me - eddygutierrez175@gmail.com
 
 <!---
